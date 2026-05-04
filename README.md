@@ -1,6 +1,6 @@
 # ITPM_Assignment_01_IT23375178_WE_4.2
 
-# 📌 Sinhala Transliteration Accuracy Testing
+#  Sinhala Transliteration Accuracy Testing
 
 ### IT3040 – ITPM | Assignment 1 (Option 1)
 
@@ -15,7 +15,7 @@ The main focus is identifying **incorrect transliterations** and validating them
 
 
 
-## 🎯 Objective
+##  Objective
 
 The objective of this assignment is to:
 
@@ -24,8 +24,8 @@ The objective of this assignment is to:
 * Automate testing using **Playwright**
 * Analyze weaknesses in the transliteration process
 
-> ⚠️ Note: Backend, performance, scalability, and security testing are **out of scope**
-## 🧪 Project Scope
+
+##  Project Scope
 
 This project includes:
 
@@ -36,7 +36,7 @@ This project includes:
 
 
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **Python 3.x**
 * **Playwright (Python)**
@@ -44,53 +44,52 @@ This project includes:
 * **Microsoft Excel**
 
 
-## 📂 Project Structure
+##  Project Structure
 
 
-📁 Sinhala-Transliteration-Testing
+ Sinhala-Transliteration-Testing
 │
-├── 📁 tests/
+├──  tests/
 │   ├── test_cases.py
 │   ├── test_config.py
 │
-├── 📁 test_automation/
+├──  test_automation/
 │   ├── playwright scripts
 │   ├── config files
 │
-├── 📄 Assignment 1 - Test cases.xlsx
-├── 📄 requirements.txt
-├── 📄 README.md
-└── 📄 run_tests.py
+├──  Assignment 1 - Test cases.xlsx
+├──  requirements.txt
+├──  README.md
+└──  run_tests.py
 
 
-## ⚙️ Installation Guide
-
-### 1️⃣ Clone the Repository
+##  Installation Guide
+### 1 Clone the Repository
 
 bash
-git clone <your-repository-link>
+git clone <https://github.com/Imbulgoda/ITPM_Assignment_01_IT23375178_WE_4.2.git>
 cd Sinhala-Transliteration-Testing
 
 
-### 2️⃣ Create Virtual Environment (Recommended)
+### 2 Create Virtual Environment (Recommended)
 
 bash
 python -m venv venv
 venv\Scripts\activate   # Windows
 
-### 3️⃣ Install Dependencies
+### 3 Install Dependencies
 
 bash
 pip install -r requirements.txt
 
 
-### 4️⃣ Install Playwright Browsers
+### 4 Install Playwright Browsers
 bash
 playwright install
 
 
 
-## ▶️ Running the Tests
+##  Running the Tests
 
 bash
 python run_tests.py
@@ -103,7 +102,7 @@ pytest
 
 
 
-## 🧾 Test Case Design
+##  Test Case Design
 
 Each test case includes:
 
@@ -123,7 +122,7 @@ Each test case includes:
 
 
 
-## 🧩 Covered Singlish Input Types
+##  Covered Singlish Input Types
 
 The system is tested against multiple real-world scenarios including:
 
@@ -142,10 +141,10 @@ The system is tested against multiple real-world scenarios including:
 
 
 
-## 📊 Output & Results
+##  Output & Results
 
 * Automated test execution results are recorded in:
-  📄 **Assignment 1 - Test cases.xlsx**
+   **Assignment 1 - Test cases.xlsx**
 
 * Each test highlights:
 
@@ -155,7 +154,7 @@ The system is tested against multiple real-world scenarios including:
 
 
 
-## 🚨 Key Findings (Example)
+##  Key Findings (Example)
 
 * Difficulty handling **mixed English + Sinhala inputs**
 * Errors in **slang and informal phrases**
@@ -164,7 +163,7 @@ The system is tested against multiple real-world scenarios including:
 
 
 
-## 📌 Important Notes
+##  Important Notes
 
 * All test cases are **original** (no Appendix examples used)
 * Repository is **publicly accessible**
@@ -172,7 +171,7 @@ The system is tested against multiple real-world scenarios including:
 
 
 
-## 📦 Submission Instructions
+##  Submission Instructions
 
 1. Rename all files using your **registration number**
 2. Create a folder with your registration number
@@ -186,7 +185,7 @@ The system is tested against multiple real-world scenarios including:
 
 
 
-## 👨‍💻 Author
+##  Author
 
 **Name:** [I G I N Imbulgoda]
 **IT Number:** [IT23375178]
