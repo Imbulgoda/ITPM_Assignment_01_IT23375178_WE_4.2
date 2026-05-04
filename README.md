@@ -4,7 +4,7 @@
 
 ### IT3040 – ITPM | Assignment 1 (Option 1)
 
-## 📖 Overview
+##  Overview
 
 This project evaluates the **accuracy of a Sinhala transliteration system** that converts informal **Singlish (chat-style Sinhala written in English letters)** into Sinhala script.
 
